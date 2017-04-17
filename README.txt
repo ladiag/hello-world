@@ -1,0 +1,1 @@
+Ceci est un document de base pour expliquer le pourquoi du comment.
